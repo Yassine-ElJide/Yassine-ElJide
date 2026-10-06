@@ -1,52 +1,94 @@
-# Hi, I'm Yassine 👋
+<h1 align="center">Hi 👋, I'm Yassine EL JIDE <img src="https://komarev.com/ghpvc/?username=Yassine-ElJide&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></h1>
 
-**Cybersecurity & Infrastructure Engineer** — ESIEE Paris (Engineering degree, Networks & Security).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Infrastructure+Engineer;SOC+%C2%B7+Detection+Engineering+%C2%B7+IAM;Building+labs+to+attack+%26+defend" alt="Typing SVG" />
+</p>
 
-I spent 3 years as an apprentice at **Filassistance International (CNP Assurances Group)** in a business-critical production environment, working across its three sides: **operations** (network, systems, virtualization), **security operations** (privileged access, detection, vulnerability management) and **governance** (DORA compliance, process modeling, risk). I build home labs to go deeper on detection engineering, Active Directory and cloud identity — the projects below.
+<p align="center">
+  🛡️ <b>Cybersecurity & Infrastructure Engineer</b><br>
+  🎓 <b>ESIEE Paris</b> · Networks & Security
+</p>
 
-🎯 Available immediately · Île-de-France & France · English (TOEIC 910)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paris-Île--de--France-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOEIC-910-blueviolet?style=for-the-badge" />
+</p>
 
-![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-0078D4?logo=microsoftazure&logoColor=white)
-![Wallix PAM](https://img.shields.io/badge/PAM-Wallix%20Bastion-1f6feb)
-![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-005792)
-![Palo Alto](https://img.shields.io/badge/Firewall-Palo%20Alto-F04E23)
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-automation-5391FE?logo=powershell&logoColor=white)
+<hr>
 
-## 🔧 Technical skills
-- ☁️ **Cloud & Identity** — Microsoft Azure, Entra ID (AD Sync), RBAC, Conditional Access, MFA, Intune (MDM), Defender for Endpoint
-- 🛡️ **Security operations** — PAM (Wallix Bastion), SIEM (Wazuh, SolarWinds), EDR/XDR (Sophos), IDS/IPS (Suricata), vulnerability management (Tenable Nessus), MITRE ATT&CK, threat detection
-- 📋 **Governance & compliance** — DORA, process modeling (BPMN), risk management, ITSM (ITIL), CMDB (GLPI)
-- 🌐 **Network & perimeter** — Palo Alto firewalls, TCP/IP, BGP, OSPF, MPLS, VLAN, DNS, DHCP, reverse proxy, Wireshark, EVE-NG, Aruba ClearPass
-- 🖥️ **Systems & virtualization** — Windows Server, Linux (Debian, Oracle), Active Directory & GPO, VMware vSphere/ESXi, Apache Tomcat, Veeam Backup, Zabbix, PRTG
-- ⚙️ **Automation & languages** — Python, PowerShell, Bash, C
+<h3 align="center">🧰 Skills & Tools</h3>
 
-## 💼 Experience — highlights
-At Filassistance International (CNP Assurances Group), Sept 2023 – Sept 2026:
-- **Privileged access** — administered the **Wallix Bastion** PAM (vaults, per-group authorizations, session traceability) over the most sensitive systems.
-- **Microsoft 365 for 250 users** — Intune MDM & compliance policies, daily Defender for Endpoint monitoring, Entra ID ↔ on-prem AD synchronization.
-- **Vulnerability management** — deployed **Tenable Nessus** across the estate and prioritized remediation of critical findings with the technical teams.
-- **High availability** — hardened a production Apache Tomcat service with a reverse proxy and a **KeepAlived** cluster to remove the single point of failure.
-- **Governance (DORA)** — modeled security processes in BPMN and produced governance deliverables for internal and external auditors.
-- **Infrastructure** — Palo Alto firewall rules, Windows/Linux patch management, a **GLPI CMDB of 380 assets**, and a **Zabbix** monitoring stack designed and deployed end to end.
+<table align="center">
+  <tr>
+    <th align="center">🛡️ Security</th>
+    <th align="center">☁️ Cloud & Identity</th>
+    <th align="center">🌐 Network</th>
+    <th align="center">🖥️ Systems</th>
+    <th align="center">⚙️ Automation</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Wazuh-005792?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Suricata-EF7D00?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Wallix%20PAM-1f6feb?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square" /><br>
+      <img src="https://skillicons.dev/icons?i=kali" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=azure" height="40" /><br>
+      <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Defender-0078D4?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Palo%20Alto-F04E23?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/EVE--NG-2b2b2b?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&perline=2" height="80" /><br>
+      <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=terraform,powershell,py,bash,c,git&perline=2" height="120" />
+    </td>
+  </tr>
+</table>
 
-## 🧪 Projects
+<hr>
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [**SOC Home Lab**](https://github.com/Yassine-ElJide/soc-home-lab) | Detection engineering: custom rules, ATT&CK mapping, alert triage | Wazuh · Suricata · AD · Kali |
-| [**Azure IAM Security Lab**](https://github.com/Yassine-ElJide/azure-iam-security-lab) | Identity hardening as code: Conditional Access, MFA, least-privilege RBAC | Entra ID · Terraform |
-| [**Windows & AD Home Lab**](https://github.com/Yassine-ElJide/homelab-windows-ad) | AD administration, GPO baseline, PowerShell provisioning | Windows Server · GPO · PowerShell · Zabbix |
-| [**Network Lab (EVE-NG)**](https://github.com/Yassine-ElJide/network-lab-eve-ng) | Enterprise routing & segmentation | OSPF · VLAN · NAT · ACL |
-| [**Malware Analysis Lab**](https://github.com/Yassine-ElJide/malware-analysis-lab) | Static & dynamic analysis, IOC extraction | FLARE VM · Ghidra · Procmon |
+<h3 align="center">🧪 Projects</h3>
 
-> The labs link together on purpose: the AD lab is the domain the SOC lab monitors, and the malware lab feeds IOCs back into SOC detections — one environment seen from the defender's side.
+<p align="center">
+  <a href="https://github.com/Yassine-ElJide/soc-home-lab"><img src="https://img.shields.io/badge/SOC%20Home%20Lab-Wazuh%20%C2%B7%20Suricata-005792?style=for-the-badge" /></a>
+  <a href="https://github.com/Yassine-ElJide/azure-iam-security-lab"><img src="https://img.shields.io/badge/Azure%20IAM%20Lab-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="https://github.com/Yassine-ElJide/homelab-windows-ad"><img src="https://img.shields.io/badge/AD%20Lab-GPO%20%C2%B7%20PowerShell-0078D4?style=for-the-badge" /></a>
+  <br>
+  <a href="https://github.com/Yassine-ElJide/network-lab-eve-ng"><img src="https://img.shields.io/badge/Network%20Lab-EVE--NG-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+  <a href="https://github.com/Yassine-ElJide/malware-analysis-lab"><img src="https://img.shields.io/badge/Malware%20Lab-FLARE%20VM-C8102E?style=for-the-badge" /></a>
+</p>
 
-## 🎓 Education & certifications
-- **Engineering degree (MSc, Bac+5), Networks & Security** — ESIEE Paris
-- **Exchange semester** — Tec de Monterrey, Mexico (taught in English)
-- Cisco **CCNA** · Cisco **CyberOps Associate** · Microsoft **AZ-900** · **SOC Analyst Learning Path** (LetsDefend)
+<hr>
 
-## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yassine--eljide-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-eljide)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yej.netlify.app-2ea44f)](https://yej.netlify.app)
+<h3 align="center">🏅 Certifications</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LetsDefend%20SOC%20Analyst-E63946?style=for-the-badge" />
+</p>
+
+<hr>
+
+<h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yassine-eljide"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yej.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
