@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassine EL JIDE <img src="https://komarev.com/ghpvc/?username=Yassine-ElJide&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></h1>
+<h1 align="center">Hi 👋, I'm Yassine EL JIDE</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Infrastructure+Engineer;SOC+%C2%B7+Detection+Engineering+%C2%B7+IAM;Building+labs+to+attack+%26+defend" alt="Typing SVG" />
